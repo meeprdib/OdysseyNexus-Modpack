@@ -1,0 +1,9 @@
+{
+    "type": "refurbished_furniture:microwave_heating",
+    "category": "food",
+    "ingredient": {
+      "item": "upgrade_aquatic:squid_bucket"
+    },
+    "result": "upgrade_aquatic:glow_squid_bucket",
+    "time": 200
+  }

@@ -1,0 +1,28 @@
+{
+    "key": "website-cataclysm_ignitium_ingot",
+    "translation": "miapi.material.website-cataclysm_ignitium_ingot",
+    "icon": {
+        "type": "item",
+        "item": "cataclysm:ignitium_ingot"
+    },
+    "fake_translation": "Ignitium ",
+    "groups": [
+        "metal"
+    ],
+    "hardness": 1,
+    "density": 7.23,
+    "flexibility": 7,
+    "durability": 2000,
+    "mining_speed": 9,
+    "mining_level": 5,
+    "color_palette": {
+        "type": "image_generated_item",
+        "item": "cataclysm:ignitium_ingot"
+      },
+    "items": [
+        {
+            "item": "cataclysm:ignitium_ingot",
+            "value": 1
+        }
+    ]
+}

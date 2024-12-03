@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "errored during placement at BlockPos", "Registry entry listened Registry Entry ", "Collecting data for", "Loading JEI data for", "Unknown recipe category: ", "Skipping Entity with id"]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Registry entry listened Registry Entry ", ""]
+

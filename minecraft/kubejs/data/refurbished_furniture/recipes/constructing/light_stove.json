@@ -1,0 +1,19 @@
+{
+  "type": "refurbished_furniture:workbench_constructing",
+  "materials": [
+    {
+      "count": 12,
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": "refurbished_furniture:light_stove",
+  "show_notification": false
+}

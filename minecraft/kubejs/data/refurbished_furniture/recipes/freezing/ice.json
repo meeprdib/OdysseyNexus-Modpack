@@ -1,0 +1,9 @@
+{
+  "type": "refurbished_furniture:freezer_solidifying",
+  "category": "blocks",
+  "ingredient": {
+    "item": "minecraft:water_bucket"
+  },
+  "result": "minecraft:ice",
+  "time": 600
+}

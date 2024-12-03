@@ -1,0 +1,27 @@
+{
+  "type": "refurbished_furniture:workbench_constructing",
+  "materials": [
+    {
+      "count": 12,
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "count": 3,
+      "tag": "forge:wires/electrum"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 24,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 1,
+      "item": "waterframes:frame"
+    }
+  ],
+  "result": "refurbished_furniture:computer",
+  "show_notification": false
+}

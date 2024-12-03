@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:lapis_lazuli"
+      },
+      {
+        "fluid": "netherexp:ectoplasm",
+        "amount": 100
+      },
+      {
+        "fluid": "create_enchantment_industry:experience",
+        "amount": 100
+      }
+    ],
+    "results": [
+      {
+        "fluid": "create_enchantment_industry:hyper_experience",
+        "amount": 11
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

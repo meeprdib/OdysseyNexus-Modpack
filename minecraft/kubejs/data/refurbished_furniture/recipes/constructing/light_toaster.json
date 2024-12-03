@@ -1,0 +1,15 @@
+{
+  "type": "refurbished_furniture:workbench_constructing",
+  "materials": [
+    {
+      "count": 4,
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": "refurbished_furniture:light_toaster",
+  "show_notification": false
+}

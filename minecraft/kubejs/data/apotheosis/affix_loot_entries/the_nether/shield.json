@@ -1,0 +1,12 @@
+{
+	"weight": 35,
+	"quality": 1,
+	"stack": {
+		"item": "minecraft:shield"
+	},
+	"min_rarity": "apotheosis:uncommon",
+	"max_rarity": "apotheosis:rare",
+	"dimensions": [
+		"minecraft:the_nether"
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "filters": [
+      {"category": "emi:anvil_repairing"},
+      {"category": "emi:grinding"},
+      {"category": "create:automatic_shaped"},
+      {"category": "irons_spellbooks:arcane_anvil"},
+      {"category": "irons_spellbooks:scroll_forge"}
+    ]
+  }

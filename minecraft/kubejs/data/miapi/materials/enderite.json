@@ -1,0 +1,41 @@
+{
+    "key": "website-cataclysm_enderite_ingot",
+    "translation": "miapi.material.website-cataclysm_enderite_ingot",
+    "icon": {
+        "type": "item",
+        "item": "cataclysm:enderite_ingot"
+    },
+    "fake_translation": "Enderite ",
+    "groups": [
+        "metal"
+    ],
+    "hardness": 1,
+    "density": 7.23,
+    "flexibility": 7,
+    "durability": 2000,
+    "mining_speed": 9,
+    "mining_level": 5,
+    "color_palette": {
+        "type": "image_generated_item",
+        "item": "cataclysm:enderite_ingot"
+      },
+    "items": [
+        {
+            "item": "cataclysm:enderite_ingot",
+            "value": 1
+        }
+    ],
+    "properties": {
+        "axe": {
+            "attributes": [
+                {
+                    "attribute": "odysseynexus:end_damage",
+                    "value": "10",
+                    "operation": "+",
+                    "slot": "mainhand",
+                    "seperateOnItem":true
+                }
+            ]
+        }
+    }
+}

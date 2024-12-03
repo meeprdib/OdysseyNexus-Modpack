@@ -1,0 +1,15 @@
+{
+    "item.create.andesite_alloy": "Mycelial Compound",
+    "block.create.andesite_bars": "Mycelial Bars",
+    "block.create.andesite_scaffolding": "Mycelial Scaffolding",
+    "block.create.andesite_funnel": "Mycelial Funnel",
+    "block.create.andesite_ladder": "Mycelial Ladder",
+    "block.create.andesite_alloy_block": "Block of Mycelial Compound",
+    "block.create.andesite_belt_funnel": "Mycelial Belt Funnel",
+    "block.create.andesite_casing": "Mycelial Casing",
+    "block.create.andesite_door": "Mycelial Door",
+    "block.create.andesite_tunnel": "Mycelial Tunnel",
+    "block.create.andesite_encased_cogwheel": "Mycelial Encased Cogwheel",
+    "block.create.andesite_encased_large_cogwheel": "Mycelial Encased Large Cogwheel",
+    "block.create.andesite_encased_shaft": "Mycelial Encased Shaft"
+}

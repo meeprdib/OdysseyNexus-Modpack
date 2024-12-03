@@ -1,0 +1,9 @@
+{
+  "type": "refurbished_furniture:freezer_solidifying",
+  "category": "blocks",
+  "ingredient": {
+    "item": "rubinated_nether:molten_ruby"
+  },
+  "result": "rubinated_nether:ruby",
+  "time": 600
+}

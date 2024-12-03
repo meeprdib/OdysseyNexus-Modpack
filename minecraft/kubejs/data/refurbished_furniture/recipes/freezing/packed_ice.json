@@ -1,0 +1,9 @@
+{
+  "type": "refurbished_furniture:freezer_solidifying",
+  "category": "blocks",
+  "ingredient": {
+    "item": "minecraft:ice"
+  },
+  "result": "minecraft:packed_ice",
+  "time": 1200
+}

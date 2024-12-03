@@ -1,0 +1,7 @@
+{
+    "block.railways.track_create_andesite_narrow":"Narrow Mycelial Train Track",
+    "block.railways.track_create_andesite_wide":"Wide Mycelial Train Track",
+    "block.railways.track_switch_andesite":"Track Switch",
+    "item.railways.track_incomplete_create_andesite_narrow":"Incomplete Narrow Mycelial Track",
+    "item.railways.track_incomplete_create_andesite_wide":"Incomplete Wide Mycelial Track"
+}

@@ -1,0 +1,14 @@
+{
+    "item.cataclysm.infernal_forge": "Ignitium Hammer",
+    "item.cataclysm.void_forge": "Enderite Hammer",
+    "hammertime.sub": "Ignitium Hammer smashes",
+    "item.cataclysm.bulwark_of_the_flame": "Ignitium Shield",
+    "item.cataclysm.gauntlet_of_guard": "Enderite Gauntlet",
+    "item.cataclysm.gauntlet_of_bulwark": "Ignitium Gauntlet",
+    "item.cataclysm.the_incinerator": "Ignitium Longsword",
+    "item.cataclysm.meat_shredder": "Witherite Sawblade",
+    "shredder_start.sub": "Witherite Sawblade activates",
+    "shredder_loop.sub": "Witherite Sawblade roars",
+    "shredder_end.sub": "Witherite Sawblade stops",
+    "item.cataclysm.tidal_claws": "Tidal Claws"
+}

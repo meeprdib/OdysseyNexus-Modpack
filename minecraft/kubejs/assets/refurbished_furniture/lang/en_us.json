@@ -1,0 +1,11 @@
+{
+    "item.refurbished_furniture.wrench": "Appliance Wrench",
+    "block.refurbished_furniture.light_stove": "Light Oven",
+    "block.refurbished_furniture.dark_stove": "Dark Oven",
+    "block.refurbished_furniture.workbench": "Electric Workbench",
+    "container.refurbished_furniture.stove": "Oven",
+    "subtitle.refurbished_furniture.stove.open": "Oven Open",
+    "subtitle.refurbished_furniture.stove.close": "Oven Closed",
+    "smart_device.refurbished_furniture.stove": "Oven",
+    "subtitle.refurbished_furniture.wrench_hover_link": "Wrench Hover Link"
+}

@@ -1,0 +1,8 @@
+{
+    "load_condition": {
+        "type": "not",
+        "condition": {
+            "type": "true"
+        }
+    }
+}

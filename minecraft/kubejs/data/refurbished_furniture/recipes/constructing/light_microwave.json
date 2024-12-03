@@ -1,0 +1,23 @@
+{
+  "type": "refurbished_furniture:workbench_constructing",
+  "materials": [
+    {
+      "count": 6,
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "count": 1,
+      "tag": "forge:glass"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 2,
+      "tag": "forge:wires/uranium"
+    }
+  ],
+  "result": "refurbished_furniture:light_microwave",
+  "show_notification": false
+}

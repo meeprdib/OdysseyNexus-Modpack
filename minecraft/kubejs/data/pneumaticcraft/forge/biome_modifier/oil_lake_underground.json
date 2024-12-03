@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#kubejs:null",
+  "features": "pneumaticcraft:oil_lake_underground",
+  "step": "lakes"
+}

@@ -1,0 +1,28 @@
+{
+    "key": "website-design_decor_cardboard_sheet",
+    "translation": "miapi.material.website-design_decor_cardboard_sheet",
+    "icon": {
+        "type": "item",
+        "item": "design_decor:cardboard_sheet"
+    },
+    "fake_translation": "Cardboard ",
+    "groups": [
+        "wood"
+    ],
+    "hardness": 0,
+    "density": 0,
+    "flexibility": 5,
+    "durability": 32,
+    "mining_speed": 1,
+    "mining_level": 1,
+    "color_palette": {
+        "type": "image_generated_item",
+        "item": "design_decor:cardboard_sheet"
+    },
+    "items": [
+        {
+            "item": "design_decor:cardboard_sheet",
+            "value": 1
+        }
+    ]
+}

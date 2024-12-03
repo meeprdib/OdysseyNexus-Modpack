@@ -1,0 +1,4 @@
+{
+    "block.storagedrawers.controller": "Drawer Manager",
+    "block.storagedrawers.controller_slave": "Drawer Worker"
+}

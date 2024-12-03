@@ -1,0 +1,9 @@
+{
+  "item.xercapaint.item_canvas": "Painting Canvas",
+  "item.xercapaint.item_canvas_large": "Large Painting Canvas",
+  "item.xercapaint.item_canvas_long": "Long Painting Canvas",
+  "item.xercapaint.item_canvas_tall": "Tall Painting Canvas",
+  "canvas.empty": "Empty painting canvas",
+  "xercapaint.import.fail.1": "You must have an empty painting canvas on your main-hand to import a painting in survival mode",
+  "xercapaint.import.fail.2": "Your painting canvas must be the correct size to import this painting in survival mode (%1$s)"
+}

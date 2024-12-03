@@ -1,0 +1,19 @@
+{
+  "type": "refurbished_furniture:workbench_constructing",
+  "materials": [
+    {
+      "count": 9,
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "count": 3,
+      "tag": "forge:wires/electrum"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": "refurbished_furniture:light_fridge",
+  "show_notification": false
+}

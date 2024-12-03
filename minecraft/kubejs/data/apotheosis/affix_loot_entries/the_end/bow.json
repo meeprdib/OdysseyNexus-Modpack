@@ -1,0 +1,12 @@
+{
+	"weight": 50,
+	"quality": 1,
+	"stack": {
+		"item": "minecraft:bow"
+	},
+	"min_rarity": "apotheosis:rare",
+	"max_rarity": "apotheosis:epic",
+	"dimensions": [
+		"minecraft:the_end"
+	]
+}

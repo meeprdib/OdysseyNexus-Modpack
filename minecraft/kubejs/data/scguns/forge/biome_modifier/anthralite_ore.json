@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#kubejs:null",
+  "features": "scguns:anthralite_ore_placed",
+  "step": "underground_ores"
+}

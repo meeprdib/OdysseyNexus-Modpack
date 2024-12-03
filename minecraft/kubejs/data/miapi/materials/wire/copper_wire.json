@@ -1,0 +1,28 @@
+{
+    "key": "website-copper_wire",
+    "translation": "miapi.material.website-copper_wire",
+    "icon": {
+        "type": "item",
+        "item": "create_ca:copper_wire"
+    },
+    "fake_translation": "Copper ",
+    "groups": [
+        "wire"
+    ],
+    "hardness": 1,
+    "density": 7.23,
+    "flexibility": 7,
+    "durability": 2000,
+    "mining_speed": 9,
+    "mining_level": 5,
+    "color_palette": {
+        "type": "image_generated_item",
+        "item": "create_ca:copper_wire"
+      },
+    "items": [
+        {
+            "item": "create_ca:copper_wire",
+            "value": 1
+        }
+    ]
+}

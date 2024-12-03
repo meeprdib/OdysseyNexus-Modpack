@@ -1,0 +1,13 @@
+{
+	"pack":
+	{
+		"pack_format": 1,
+		"description": "Compression's Recipes etc."
+	},
+	"filter": { "block": [
+		
+		{"namespace": "kubejs", "path": "advancements"}
+
+	]}
+	
+}
