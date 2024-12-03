@@ -96,6 +96,9 @@
             DO NOT ENABLE IF U DONT KNOW WHAT IT DOES
             */
             "development_mode": false,
+            // Save Area Mining adds additional checks to prevent explosive behaviour when pared with other mods
+
+            "save_area_mining": true,
             // Truly Modular Logs more aggressivly
             "verbose_logging": false,
             /*

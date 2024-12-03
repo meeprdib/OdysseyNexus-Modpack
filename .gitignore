@@ -16,3 +16,8 @@
 /minecraft/patchouli_data.json
 /minecraft/usernamecache.json
 /minecraft/rhino.local.properties
+instance.cfg
+minecraft/ears-debug.log
+/minecraft/.mixin.out/class/net/minecraft/client/renderer/entity
+minecraft/usercache.json
+minecraft/observable_announce

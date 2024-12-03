@@ -219,6 +219,7 @@
 			stripped_post = true
 			ladder = true
 			hollow_log = true
+			vertical_slab = true
 
 		[entries.wood_type.architects_palette]
 			boards = true
