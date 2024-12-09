@@ -21,3 +21,4 @@ minecraft/ears-debug.log
 /minecraft/.mixin.out/class/net/minecraft/client/renderer/entity
 minecraft/usercache.json
 minecraft/observable_announce
+instance.cfg

@@ -1,0 +1,83 @@
+{
+	"ore_mappings": {
+		"copper_ore": [
+			"minecraft:copper_ore",
+			"minecraft:deepslate_copper_ore",
+		],
+		"gold_ore": [
+			"minecraft:gold_ore",
+			"minecraft:deepslate_gold_ore",
+		],
+		"nether_gold_ore": [
+			"minecraft:nether_gold_ore",
+		],
+		"redstone_ore": [
+			"minecraft:redstone_ore",
+			"minecraft:deepslate_redstone_ore",
+		],
+		"silver_ore": [
+			"galosphere:deepslate_silver_ore",
+			"galosphere:silver_ore",
+			"oreganized:silver_ore",
+			"oreganized:deepslate_silver_ore",
+		],
+		"diamond_ore": [
+			"minecraft:diamond_ore",
+			"minecraft:deepslate_diamond_ore",
+		],
+		"iron_ore": [
+			"minecraft:iron_ore",
+			"minecraft:deepslate_iron_ore",
+		],
+		"lapis_ore": [
+			"minecraft:lapis_ore",
+			"minecraft:deepslate_lapis_ore",
+		],
+		"zinc_ore": [
+			"create:deepslate_zinc_ore",
+			"create:zinc_ore",
+		],
+		"coal_ore": [
+			"minecraft:coal_ore",
+			"minecraft:deepslate_coal_ore",
+		],
+		"lead_ore": [
+			"oreganized:deepslate_lead_ore",
+			"oreganized:lead_ore",
+		],
+		"emerald_ore": [
+			"minecraft:deepslate_emerald_ore",
+			"minecraft:emerald_ore",
+		],
+		"quartz_ore": [
+			"minecraft:nether_quartz_ore",
+		],
+	},
+	"stone_mappings": {
+		"red_sandstone": "minecraft:red_sandstone",
+		"quark_shale": "quark:shale",
+		"create_limestone": "create:limestone",
+		dripstone: "minecraft:dripstone_block",
+		calcite: "minecraft:calcite",
+		sandstone: "minecraft:sandstone",
+		basalt: "minecraft:basalt",
+		"quark_limestone": "quark:limestone",
+		"quark_jasper": "quark:jasper",
+		"end_stone": "minecraft:end_stone",
+		"create_veridium": "create:veridium",
+		netherrack: "minecraft:netherrack",
+		andesite: "minecraft:andesite",
+		diorite: "minecraft:diorite",
+		deepslate: "minecraft:deepslate",
+		"create_crimsite": "create:crimsite",
+		"create_scoria": "create:scoria",
+		stone: "minecraft:stone",
+		"smooth_basalt": "minecraft:smooth_basalt",
+		"create_ochrum": "create:ochrum",
+		granite: "minecraft:granite",
+		tuff: "minecraft:tuff",
+		"create_asurine": "create:asurine",
+		blackstone: "minecraft:blackstone",
+		"create_scorchia": "create:scorchia",
+	},
+}
