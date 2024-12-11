@@ -85,7 +85,7 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
-		"spelunkery:rock_salt_block": "galosphere:pink_salt",
+		// "spelunkery:rock_salt_block": "galosphere:pink_salt",
 		"regions_unexplored:maple_log": "autumnity:maple_log",
 		"regions_unexplored:maple_sapling": "autumnity:maple_sapling",
 		"regions_unexplored:orange_maple_sapling": "autumnity:orange_maple_sapling",

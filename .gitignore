@@ -22,3 +22,6 @@ minecraft/ears-debug.log
 minecraft/usercache.json
 minecraft/observable_announce
 instance.cfg
+minecraft/options.txt
+*.log
+minecraft/kubejs/documentation/index.html

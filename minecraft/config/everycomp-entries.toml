@@ -57,11 +57,6 @@
 			pewen = true
 			thornwood = true
 
-		[types.wood_type.excessive_building]
-			ancient = true
-			willow = true
-			maple = true
-
 	[types.leaves_type]
 
 		[types.leaves_type.fruitsdelight]
@@ -137,14 +132,6 @@
 			ashen = true
 
 		[types.leaves_type.alexscaves]
-			ancient = true
-
-		[types.leaves_type.excessive_building]
-			golden_birch = true
-			willow = true
-			red_maple = true
-			orange_maple = true
-			yellow_maple = true
 			ancient = true
 
 	[types.stone_type]
@@ -230,14 +217,6 @@
 			radrock = true
 			abyssmarine = true
 			guanostone = true
-
-		[types.stone_type.excessive_building]
-			soul_sandstone = true
-			chiseled_soul_sandstone = true
-			polished_brimstone = true
-			polished_stone = true
-			marble = true
-			marquina_marble = true
 
 #Disables specific entries
 [entries]
